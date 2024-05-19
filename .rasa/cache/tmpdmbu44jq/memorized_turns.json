@@ -1,0 +1,32 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KfGleRmJBQWVtbWxAN75UWc=": "action_listen",
+    "eJyljlEKgCAQBa+yB+gEXiVCJJcScpV1DUK8ewv2H9TfGxiGN7c+QcuMp3WrhEQG2hiWXEQDDxyhCJK6tSCrE0hRDGyMKP2lUUWQ7VC/FV5exJS8rbS7nK+fKY+kieUGhxlq1A==": "utter_goodbye",
+    "eJylj1EKgCAQRK+yB+gEXiVCrIYSahVbgxDvnmC/IdTfDjzezPYpd5R8wKnNJNaxolQPzWaHoids9hBwYeOBUBjLJYqiJQCSG44ogqAr+s3QWLE7N+vIq/H++qmawU3F808pHS+8KYYb2gqEUQ==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohuSi/IL4ovyQRpKq2NhYA1Rce8Q==": "utter_crop_rotation",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohuSi/IL4ovyQRpKqWgFmlJSWpRfGoWgiZGAsA1ZI+2w==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohNz8ltSgvPjG9KDO5NKektCi1tjYWAHRFIPk=": "utter_modern_agriculture",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohNz8ltSgvPjG9KDO5NKektCi1loCBpSUlqUXxWPQRZXYsALtTRPM=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4EGxQIAPEFQdQ==": "utter_happy",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMAVufn5KSDzE4l0SkZiQUElfmNiAVKZa5w=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEoBRKcXJZakpsQXpBaXxOcm5iWmp+YC5WprYwGI4CQs": "utter_integrated_pest_management",
+    "eJyVTdsJgDAMXCUDOEFXEQlBQynYWNLUn+LuRvRb8evuuNfYjwF6Ud6RZkubBOg3QaHMAR6xpmosnm2V1TNJXFqAC6OS8YKFq2EmocjZveNjuJmx4kv/19d0ArCoTow=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvyg9MS8zOT4tsSg3My+9tjYWABIcH5Q=": "utter_organic_farming",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvyg9MS8zOT4tsSg3My+9loBppSUlqUXx6JoImxoLAEBnQMQ=": "action_listen",
+    "eJwtytsJgDAMQNFVMoATdBWREkuQQI2Shz+hu1vQv3vgrjkWyFvpqdicLymQX1TBkwr86GxOMt8w0vmwTHoBC3Nkwb1TxUO5RfdQGmN7AR+fIw8=": "utter_sustainable_agriculture",
+    "eJyNjUsKgDAMRK/SA3iCXkUkxBIkUKPk46Z4dwu6Fd3NgzczYzuH1HalA7A4b5JTuwMIrpTTA5XNSbobRtodlo6ek4U5suBcCXBRLlE9lM6P1XAnhbfy/5fpAgppSzU=": "action_listen",
+    "eJyljlEKgCAQBa+yB+gEXiVCpNYScpV1DUK8e4L9C/X3BobhzaVOUCLjpc0qLpCC0ocm41HBC6dLgtTcnJCb46ihKNgZUeqgkUWQdVe/FQYvfAibznSYGO+fKWOtY1/r8gBdZWuZ": "utter_happy",
+    "eJylj1EKgCAQRK/iATqBV4kQqbWEXGVdgxDvnmC/YdTfDjzezI65DCIHgkPpma1HKXI7FGoHUtxht5EBK5siUGUs1shSrATApeNIzECqod8MnRXO+0Ul3HQI50+VNsaSe/dR63tUTBfigYUU": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohuSi/ID4lsyy1qDgzLTM5EaS4tjYWALc+IcQ=": "utter_crop_diversification",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohuSi/ID4lsyy1qDgzLTM5EaS4loCRpSUlqUXxWHUSaX4sAGLeR1Q=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhpCgxJROkIjEnPi2xKDczL722NhYAlXYhTA==": "utter_traditional_farming",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEqhpCgxJROkIjEnPi2xKDczL72WgImlJSWpRfHYNBJneiwAg45F7A==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohKbW4JL6gCKQqObW4tjYWAPL4Hzk=": "utter_best_practices",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohKbW4JL6gCKQqObW4loBhpSUlqUXxaHoImhkLAIPsP7M=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEoBqDM5sxikIjG9KDO5NKektCi1tjYWANneIkA=": "utter_precision_agriculture",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEoBqDM5sxikIjG9KDO5NKektCi1loCZpSUlqUXx2LUSa0MsAEmqSMg=": "action_listen"
+  }
+}

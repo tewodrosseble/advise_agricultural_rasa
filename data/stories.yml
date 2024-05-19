@@ -1,0 +1,72 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - intent: deny
+  - action: utter_goodbye
+
+- story: modern agriculture
+  steps:
+  - intent: modern_agriculture
+  - action: utter_modern_agriculture
+
+- story: organic farming
+  steps:
+  - intent: organic_farming
+  - action: utter_organic_farming
+
+- story: traditional farming
+  steps:
+  - intent: traditional_farming
+  - action: utter_traditional_farming
+
+- story: best practices
+  steps:
+  - intent: best_practices
+  - action: utter_best_practices
+
+- story: crop rotation
+  steps:
+  - intent: crop_rotation
+  - action: utter_crop_rotation
+
+- story: crop diversification
+  steps:
+  - intent: crop_diversification
+  - action: utter_crop_diversification
+
+- story: precision agriculture
+  steps:
+  - intent: precision_agriculture
+  - action: utter_precision_agriculture
+
+- story: sustainable agriculture
+  steps:
+  - intent: sustainable_agriculture
+  - action: utter_sustainable_agriculture
+
+- story: integrated pest management
+  steps:
+  - intent: integrated_pest_management
+  - action: utter_integrated_pest_management
+  

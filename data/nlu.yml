@@ -1,0 +1,224 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: best_practices
+  examples: |
+    - tell me best agricultural practices
+    - what are the best practices in agriculture
+    - what are the best practices in farming
+    - what things should I do to make my production better in agricultre
+    - What are the suggested measures to increase the production in agriculture
+    - what are some things in agriculture that I should follow to increase my production
+    - what are the best ways to increase my prodcution in agriculture
+    - what are the best ways to increase my production in farming
+
+
+- intent: modern_agriculture
+  examples : |
+    - what is modern agriculture
+    - what is the modern way of farming
+    - tell me about modern agirculture
+    - what are the modern techniques in agriculture
+    - what are the modern ways of farming
+    - what are the modern methods of farming
+    - what are the modern ways of agriculture
+  
+- intent: organic_farming
+  examples: |
+    - what is organic farming
+    - what are the benefits of organic farming
+    - what are the ways of organic farming
+    - what are the methods of organic farming
+    - what are the techniques of organic farming
+    - what are the advantages of organic farming
+    - what are the disadvantages of organic farming
+    - what are the benefits of organic farming
+    - what are the ways of organic farming
+    - what are the methods of organic farming
+    - what are the techniques of organic farming
+    - what are the advantages of organic farming
+    - what are the disadvantages of organic farming
+
+- intent: traditional_farming
+  examples: |
+    - what is traditional farming
+    - what are the benefits of traditional farming
+    - what are the ways of traditional farming
+    - what are the methods of traditional farming
+    - what are the techniques of traditional farming
+    - what are the advantages of traditional farming
+    - what are the disadvantages of traditional farming
+    - what are the benefits of traditional farming
+    - what are the ways of traditional farming
+    - what are the methods of traditional farming
+    - what are the techniques of traditional farming
+    - what are the advantages of traditional farming
+    - what are the disadvantages of traditional farming
+
+- intent: crop_rotation
+  examples: |
+    - what is crop rotation
+    - what are the benefits of crop rotation
+    - what are the ways of crop rotation
+    - what are the methods of crop rotation
+    - what are the techniques of crop rotation
+    - what are the advantages of crop rotation
+    - what are the disadvantages of crop rotation
+    - what are the benefits of crop rotation
+    - what are the ways of crop rotation
+    - what are the methods of crop rotation
+    - what are the techniques of crop rotation
+    - what are the advantages of crop rotation
+    - what are the disadvantages of crop rotation
+
+- intent: crop_diversification
+  examples: |
+    - what is crop diversification
+    - what are the benefits of crop diversification
+    - what are the ways of crop diversification
+    - what are the methods of crop diversification
+    - what are the techniques of crop diversification
+    - what are the advantages of crop diversification
+    - what are the disadvantages of crop diversification
+    - what are the benefits of crop diversification
+    - what are the ways of crop diversification
+    - what are the methods of crop diversification
+    - what are the techniques of crop diversification
+    - what are the advantages of crop diversification
+    - what are the disadvantages of crop diversification
+
+- intent: precision_agriculture
+  examples: |
+    - what is precision agriculture
+    - what are the benefits of precision agriculture
+    - what are the ways of precision agriculture
+    - what are the methods of precision agriculture
+    - what are the techniques of precision agriculture
+    - what are the advantages of precision agriculture
+    - what are the disadvantages of precision agriculture
+    - what are the benefits of precision agriculture
+    - what are the ways of precision agriculture
+    - what are the methods of precision agriculture
+    - what are the techniques of precision agriculture
+    - what are the advantages of precision agriculture
+    - what are the disadvantages of precision agriculture
+
+- intent: sustainable_agriculture
+  examples: |
+    - what is sustainable agriculture
+    - what are the benefits of sustainable agriculture
+    - what are the ways of sustainable agriculture
+    - what are the methods of sustainable agriculture
+    - what are the techniques of sustainable agriculture
+    - what are the advantages of sustainable agriculture
+    - what are the disadvantages of sustainable agriculture
+    - what are the benefits of sustainable agriculture
+    - what are the ways of sustainable agriculture
+    - what are the methods of sustainable agriculture
+    - what are the techniques of sustainable agriculture
+    - what are the advantages of sustainable agriculture
+    - what are the disadvantages of sustainable agriculture
+
+- intent: integrated_pest_management
+  examples: |
+    - what is integrated pest management
+    - what are the benefits of integrated pest management
+    - what are the ways of integrated pest management
+    - what are the methods of integrated pest management
+    - what are the techniques of integrated pest management
+    - what are the advantages of integrated pest management
+    - what are the disadvantages of integrated pest management
+    - what are the benefits of integrated pest management
+    - what are the ways of integrated pest management
+    - what are the methods of integrated pest management
+    - what are the techniques of integrated pest management
+    - what are the advantages of integrated pest management
+    - what are the disadvantages of integrated pest management

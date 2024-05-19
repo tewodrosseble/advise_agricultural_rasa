@@ -1,0 +1,70 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - best_practices
+  - modern_agriculture
+  - organic_farming
+  - traditional_farming
+  - crop_rotation
+  - crop_diversification
+  - precision_agriculture
+  - sustainable_agriculture
+  - integrated_pest_management
+
+
+responses:
+  utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Good I am happy to see that"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_modern_agriculture:
+  - text: "Modern agriculture is a term used to describe the type of farming that keeps up with the latest technology and advancements in the industry. It is a more efficient way of farming that aims to increase production and quality of crops."
+
+  utter_organic_farming:
+  - text: "Organic farming is a method of farming that does not use synthetic chemicals or genetically modified organisms. It is a more sustainable way of farming that aims to protect the environment and produce healthier crops."
+
+  utter_traditional_farming:
+  - text: "Traditional farming is a method of farming that has been practiced for generations. It is a more natural way of farming that aims to preserve the environment and produce crops using traditional methods."
+
+  utter_best_practices:
+  - text: "Some of the best practices in agriculture include crop rotation, integrated pest management, and precision agriculture. These practices can help increase production, reduce costs, and protect the environment."
+
+  utter_crop_rotation:
+  - text: "Crop rotation is a farming practice that involves planting different crops in the same field in sequential seasons. It helps improve soil fertility, reduce pests and diseases, and increase crop yields."
+
+  utter_crop_diversification:
+  - text: "Crop diversification is a farming practice that involves growing a variety of crops on the same farm. It helps reduce risks, increase income, and improve soil health."
+
+  utter_precision_agriculture:
+  - text: "Precision agriculture is a farming practice that uses technology to optimize crop production. It involves using data, sensors, and GPS to monitor and manage crops more efficiently."
+
+  utter_sustainable_agriculture:
+  - text: "Sustainable agriculture is a farming practice that aims to produce food in a way that is environmentally friendly, socially responsible, and economically viable. It focuses on conserving natural resources, reducing waste, and promoting biodiversity."
+
+  utter_integrated_pest_management:
+  - text: "Integrated pest management is a farming practice that uses a combination of biological, cultural, and chemical methods to control pests. It aims to reduce the use of pesticides, protect the environment, and improve crop yields."
+
+  utter_iamabot:
+  - text: "I am AI powered Farmsure's personalized Agricultural Assistant."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
